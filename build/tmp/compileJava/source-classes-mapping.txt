@@ -1,0 +1,10 @@
+queries/QueryApp.java
+ queries.QueryApp
+queries/ManufacturingController.java
+ queries.ManufacturingController
+AppLogger.java
+ AppLogger
+App.java
+ App
+ConnectionUtils.java
+ ConnectionUtils
